@@ -1,0 +1,6 @@
+kafka:
+  bootstrapAddress: localhost:9092
+  topic:
+    defaultName: kafka-demo
+    partitionedName: partitioned
+    filteredName: filtered
